@@ -7,7 +7,7 @@ exports.definition = {
 			"info": "(info)"
 		},
 		"adapter": {
-			"type": "properties",
+			"type": "sql",
 			"collection_name": "MyModels"
 		}
 	}
