@@ -1,0 +1,16 @@
+<Alloy>
+	
+	<Collection src="MyModel">
+	
+	<Window>
+		
+		<TableView dataCollection="MyModel">
+
+			<TableViewRow>
+				<Label>MyModel</Label>
+			</TableViewRow>
+
+		</TableView>
+		
+	</Window>
+</Alloy>
